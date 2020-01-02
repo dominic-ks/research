@@ -1,6 +1,6 @@
 Dear `Contact` / Hello,
 
-I’m writing to you on behalf of `whatever we’re calling ourselves`. We’re a group of volunteer designers and software
+I’m writing to you on behalf of a group of volunteer designers and software
 developers, and we’re hoping to build free tools to help food banks to get the things they need.
 
 As such, I’d love the opportunity to `meet with you/talk on the phone` to discuss what you need, how easy it is for you
@@ -13,8 +13,7 @@ you later decide you’d prefer us not to use your notes, you can always reply t
 the purpose of designing better tools.
 
 If this sounds like something you’d like to participate in, please reply to this email (optional: or contact me on
-`number`) and we’ll arrange a time. If you’d like to participate but can’t commit to a `meeting/call`, you can also take
-part in our online survey at `link`.
+`number`) and we’ll arrange a time. If you’d like to participate but can’t commit to a `meeting/call`, please let me know by responding to this email and we will send you our online survey when this is ready.
 
 Thanks very much for reading, and I look forward to hearing from you soon.
 
